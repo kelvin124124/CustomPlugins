@@ -8,7 +8,7 @@
         "AssemblyVersion": "2.0.2.6",
         "RepoUrl": "https://github.com/kelvin124124/OopsAllLalafellsSRE",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 12,
+        "DalamudApiLevel": 13,
         "IconUrl": "https://raw.githubusercontent.com/kelvin124124/OopsAllLalafellsSRE/main/image/icon.png",
         "ImageUrls": [],
         "DownloadLinkInstall": "https://github.com/kelvin124124/OopsAllLalafellsSRE/releases/latest/download/latest.zip",
@@ -17,6 +17,6 @@
         "DownloadLinkTesting": "https://github.com/kelvin124124/OopsAllLalafellsSRE/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kelvin124124/OopsAllLalafellsSRE/releases/latest/download/latest.zip",
         "DownloadCount": 1,
-        "LastUpdated": "1748985400"
+        "LastUpdated": "1754586978"
     }
 ]
