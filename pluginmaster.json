@@ -5,7 +5,7 @@
         "Punchline": "Turn everyone around you into Lalafells (or other races!)",
         "Description": "Turn everyone around you into Lalafells (or other races!)",
         "InternalName": "OopsAllLalafellsSRE",
-        "AssemblyVersion": "2.0.2.13",
+        "AssemblyVersion": "2.1.0.0",
         "RepoUrl": "https://github.com/kelvin124124/OopsAllLalafellsSRE",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 15,
@@ -17,6 +17,6 @@
         "DownloadLinkTesting": "https://github.com/kelvin124124/OopsAllLalafellsSRE/releases/latest/download/latest.zip",
         "DownloadLinkUpdate": "https://github.com/kelvin124124/OopsAllLalafellsSRE/releases/latest/download/latest.zip",
         "DownloadCount": 1,
-        "LastUpdated": "1789213035"
+        "LastUpdated": "1789217850"
     }
 ]
